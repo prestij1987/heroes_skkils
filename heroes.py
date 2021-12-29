@@ -7,7 +7,7 @@ import json
 
 
 
-TOKEN = "2619421814940190"
+
 heroes_data = {}
 
 def get_intelligence(name):
